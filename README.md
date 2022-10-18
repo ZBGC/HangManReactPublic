@@ -1,1 +1,2 @@
-## this hangman exercise is just for me to tamper with, nothing too deep, we all start somewhere## 
+## this hangman exercise is just for me to tamper with, nothing too deep, we all start somewhere, just testing out publicly the .map(), which creates a new array,
+## .splice(), which changes the contents by removing or replacing, and etc. 
